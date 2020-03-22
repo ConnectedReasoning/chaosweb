@@ -22,7 +22,7 @@ class ColoredRect extends React.Component {
         fill={this.state.color}
         shadowBlur={5}
         onClick={this.handleClick}
-        onTouchStart = {this.handleClick}
+        onTap={this.handleClick}
       />
     );
   }
