@@ -37,7 +37,7 @@ export default class ChaosDal{
     checkChaos = JSON.parse(checkChaos);
     if(!checkChaos){
       //console.log('initializing Chaos');
-      const newChaosDoc = JSON.stringify({worksets:[], contexts:[], timestamp:Date.now()}); 
+      const newChaosDoc = JSON.stringify({ timestamp:Date(Date.now()).toString()}); 
       localStorage.setItem('chaosStorage', newChaosDoc);
       this.getChaos();
     }

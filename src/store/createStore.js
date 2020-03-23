@@ -11,7 +11,7 @@ export default (initialState = {}) => {
     combineReducers({
       chaos: reducer,
     }),
-    applyMiddleware(promiseMiddleware ) //logger goes here
+    applyMiddleware(logger, promiseMiddleware ) //logger goes here
 
   )
 };

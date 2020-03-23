@@ -1,12 +1,12 @@
 import React from 'react';
-import { Stage, Layer, Rect, Text } from 'react-konva';
+import { Rect } from 'react-konva';
 import Konva from 'konva';
 
 export default class ColoredRect extends React.Component {
   state = {
     color: 'green'
   };
-  handleClick = () => {
+  displayRandom = () => {
     this.setState({
       color: Konva.Util.getRandomColor()
     });
@@ -14,14 +14,16 @@ export default class ColoredRect extends React.Component {
   render() {
     return (
       <Rect
-        x={50}
-        y={50}
-        width={200}
-        height={200}
-        fill={this.state.color}
+        x={ Math.random() * (window.innerWidth - 100)}
+        y={ Math.random() * (window.innerHeight - 100)}
+        width={20 +  Math.random() * 100}
+        height={ 20 + Math.random() * 100 }
+        fill={Konva.Util.getRandomColor()}
         shadowBlur={5}
-        onClick={this.handleClick}
-        onTap={this.handleClick}
+        //r = {Math.floor(Math.random() * 256)}
+        //g = {Math.floor(Math.random() * 256)}
+        //b = {Math.floor(Math.random() * 256)"
+
       />
     );
   }
