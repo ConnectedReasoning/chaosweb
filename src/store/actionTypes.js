@@ -1,3 +1,0 @@
-export const LOAD_CHAOS = 'LOAD_CHAOS';
-export const INIT_CHAOS = 'INIT_CHAOS';
-export const UPDATE_LOCAL_CHAOS = 'UPDATE_LOCAL_CHAOS';

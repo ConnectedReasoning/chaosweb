@@ -1,0 +1,1923 @@
+*
+  {
+    "id": "01001",
+    "name": "Autauga County, AL",
+    "year": 2017,
+    "unemployment_rate": 3.9
+  },
+  {
+    "id": "01003",
+    "name": "Baldwin County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "01005",
+    "name": "Barbour County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.8
+  },
+  {
+    "id": "01007",
+    "name": "Bibb County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "01009",
+    "name": "Blount County, AL",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "01011",
+    "name": "Bullock County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.9
+  },
+  {
+    "id": "01013",
+    "name": "Butler County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.5
+  },
+  {
+    "id": "01015",
+    "name": "Calhoun County, AL",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "01017",
+    "name": "Chambers County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "01019",
+    "name": "Cherokee County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "01021",
+    "name": "Chilton County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "01023",
+    "name": "Choctaw County, AL",
+    "year": 2017,
+    "unemployment_rate": 6.3
+  },
+  {
+    "id": "01025",
+    "name": "Clarke County, AL",
+    "year": 2017,
+    "unemployment_rate": 8.5
+  },
+  {
+    "id": "01027",
+    "name": "Clay County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "01029",
+    "name": "Cleburne County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "01031",
+    "name": "Coffee County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "01033",
+    "name": "Colbert County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.2
+  },
+  {
+    "id": "01035",
+    "name": "Conecuh County, AL",
+    "year": 2017,
+    "unemployment_rate": 6.1
+  },
+  {
+    "id": "01037",
+    "name": "Coosa County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.7
+  },
+  {
+    "id": "01039",
+    "name": "Covington County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.2
+  },
+  {
+    "id": "01041",
+    "name": "Crenshaw County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "01043",
+    "name": "Cullman County, AL",
+    "year": 2017,
+    "unemployment_rate": 3.8
+  },
+  {
+    "id": "01045",
+    "name": "Dale County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "01047",
+    "name": "Dallas County, AL",
+    "year": 2017,
+    "unemployment_rate": 7.5
+  },
+  {
+    "id": "01049",
+    "name": "DeKalb County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "01051",
+    "name": "Elmore County, AL",
+    "year": 2017,
+    "unemployment_rate": 3.7
+  },
+  {
+    "id": "01053",
+    "name": "Escambia County, AL",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "01055",
+    "name": "Etowah County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.6
+  },
+  {
+    "id": "01057",
+    "name": "Fayette County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.7
+  },
+  {
+    "id": "01059",
+    "name": "Franklin County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "01061",
+    "name": "Geneva County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "01063",
+    "name": "Greene County, AL",
+    "year": 2017,
+    "unemployment_rate": 7.6
+  },
+  {
+    "id": "01065",
+    "name": "Hale County, AL",
+    "year": 2017,
+    "unemployment_rate": 6
+  },
+  {
+    "id": "01067",
+    "name": "Henry County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.9
+  },
+  {
+    "id": "01069",
+    "name": "Houston County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "01071",
+    "name": "Jackson County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "01073",
+    "name": "Jefferson County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "01075",
+    "name": "Lamar County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "01077",
+    "name": "Lauderdale County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.7
+  },
+  {
+    "id": "01079",
+    "name": "Lawrence County, AL",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "01081",
+    "name": "Lee County, AL",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "01083",
+    "name": "Limestone County, AL",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "01085",
+    "name": "Lowndes County, AL",
+    "year": 2017,
+    "unemployment_rate": 8.3
+  },
+  {
+    "id": "01087",
+    "name": "Macon County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.8
+  },
+  {
+    "id": "01089",
+    "name": "Madison County, AL",
+    "year": 2017,
+    "unemployment_rate": 3.9
+  },
+  {
+    "id": "01091",
+    "name": "Marengo County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.6
+  },
+  {
+    "id": "01093",
+    "name": "Marion County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "01095",
+    "name": "Marshall County, AL",
+    "year": 2017,
+    "unemployment_rate": 3.9
+  },
+  {
+    "id": "01097",
+    "name": "Mobile County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.2
+  },
+  {
+    "id": "01099",
+    "name": "Monroe County, AL",
+    "year": 2017,
+    "unemployment_rate": 6.7
+  },
+  {
+    "id": "01101",
+    "name": "Montgomery County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "01103",
+    "name": "Morgan County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "01105",
+    "name": "Perry County, AL",
+    "year": 2017,
+    "unemployment_rate": 7.8
+  },
+  {
+    "id": "01107",
+    "name": "Pickens County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.4
+  },
+  {
+    "id": "01109",
+    "name": "Pike County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.9
+  },
+  {
+    "id": "01111",
+    "name": "Randolph County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "01113",
+    "name": "Russell County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "01115",
+    "name": "St. Clair County, AL",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "01117",
+    "name": "Shelby County, AL",
+    "year": 2017,
+    "unemployment_rate": 3.2
+  },
+  {
+    "id": "01119",
+    "name": "Sumter County, AL",
+    "year": 2017,
+    "unemployment_rate": 6.6
+  },
+  {
+    "id": "01121",
+    "name": "Talladega County, AL",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "01123",
+    "name": "Tallapoosa County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "01125",
+    "name": "Tuscaloosa County, AL",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "01127",
+    "name": "Walker County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.1
+  },
+  {
+    "id": "01129",
+    "name": "Washington County, AL",
+    "year": 2017,
+    "unemployment_rate": 6.8
+  },
+  {
+    "id": "01131",
+    "name": "Wilcox County, AL",
+    "year": 2017,
+    "unemployment_rate": 11.5
+  },
+  {
+    "id": "01133",
+    "name": "Winston County, AL",
+    "year": 2017,
+    "unemployment_rate": 5.1
+  },
+  {
+    "id": "02013",
+    "name": "Aleutians East Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 2.5
+  },
+  {
+    "id": "02016",
+    "name": "Aleutians West Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 3.7
+  },
+  {
+    "id": "02020",
+    "name": "Anchorage Borough/municipality, AK",
+    "year": 2017,
+    "unemployment_rate": 5.8
+  },
+  {
+    "id": "02050",
+    "name": "Bethel Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 13.5
+  },
+  {
+    "id": "02060",
+    "name": "Bristol Bay Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 6.2
+  },
+  {
+    "id": "02068",
+    "name": "Denali Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 9
+  },
+  {
+    "id": "02070",
+    "name": "Dillingham Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 8.9
+  },
+  {
+    "id": "02090",
+    "name": "Fairbanks North Star Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 6.1
+  },
+  {
+    "id": "02100",
+    "name": "Haines Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 8.9
+  },
+  {
+    "id": "02105",
+    "name": "Hoonah-Angoon Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 12.3
+  },
+  {
+    "id": "02110",
+    "name": "Juneau Borough/city, AK",
+    "year": 2017,
+    "unemployment_rate": 4.6
+  },
+  {
+    "id": "02122",
+    "name": "Kenai Peninsula Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 8.3
+  },
+  {
+    "id": "02130",
+    "name": "Ketchikan Gateway Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 6.1
+  },
+  {
+    "id": "02150",
+    "name": "Kodiak Island Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "02158",
+    "name": "Kusilvak Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 19.6
+  },
+  {
+    "id": "02164",
+    "name": "Lake and Peninsula Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 11.7
+  },
+  {
+    "id": "02170",
+    "name": "Matanuska-Susitna Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 8.2
+  },
+  {
+    "id": "02180",
+    "name": "Nome Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 12.1
+  },
+  {
+    "id": "02185",
+    "name": "North Slope Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 7.4
+  },
+  {
+    "id": "02188",
+    "name": "Northwest Arctic Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 16.2
+  },
+  {
+    "id": "02195",
+    "name": "Petersburg Borough, AK",
+    "year": 2017,
+    "unemployment_rate": 9.2
+  },
+  {
+    "id": "02198",
+    "name": "Prince of Wales-Hyder Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 11
+  },
+  {
+    "id": "02220",
+    "name": "Sitka Borough/city, AK",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "02230",
+    "name": "Skagway Municipality, AK",
+    "year": 2017,
+    "unemployment_rate": 10.2
+  },
+  {
+    "id": "02240",
+    "name": "Southeast Fairbanks Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 10.2
+  },
+  {
+    "id": "02261",
+    "name": "Valdez-Cordova Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 7.7
+  },
+  {
+    "id": "02275",
+    "name": "Wrangell Borough/city, AK",
+    "year": 2017,
+    "unemployment_rate": 7.6
+  },
+  {
+    "id": "02282",
+    "name": "Yakutat Borough/city, AK",
+    "year": 2017,
+    "unemployment_rate": 9.4
+  },
+  {
+    "id": "02290",
+    "name": "Yukon-Koyukuk Census Area, AK",
+    "year": 2017,
+    "unemployment_rate": 17.6
+  },
+  {
+    "id": "04001",
+    "name": "Apache County, AZ",
+    "year": 2017,
+    "unemployment_rate": 10.3
+  },
+  {
+    "id": "04003",
+    "name": "Cochise County, AZ",
+    "year": 2017,
+    "unemployment_rate": 5.6
+  },
+  {
+    "id": "04005",
+    "name": "Coconino County, AZ",
+    "year": 2017,
+    "unemployment_rate": 5.5
+  },
+  {
+    "id": "04007",
+    "name": "Gila County, AZ",
+    "year": 2017,
+    "unemployment_rate": 6.1
+  },
+  {
+    "id": "04009",
+    "name": "Graham County, AZ",
+    "year": 2017,
+    "unemployment_rate": 5.4
+  },
+  {
+    "id": "04011",
+    "name": "Greenlee County, AZ",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "04012",
+    "name": "La Paz County, AZ",
+    "year": 2017,
+    "unemployment_rate": 5.4
+  },
+  {
+    "id": "04013",
+    "name": "Maricopa County, AZ",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "04015",
+    "name": "Mohave County, AZ",
+    "year": 2017,
+    "unemployment_rate": 5.9
+  },
+  {
+    "id": "04017",
+    "name": "Navajo County, AZ",
+    "year": 2017,
+    "unemployment_rate": 7.7
+  },
+  {
+    "id": "04019",
+    "name": "Pima County, AZ",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "04021",
+    "name": "Pinal County, AZ",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "04023",
+    "name": "Santa Cruz County, AZ",
+    "year": 2017,
+    "unemployment_rate": 9.5
+  },
+  {
+    "id": "04025",
+    "name": "Yavapai County, AZ",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "04027",
+    "name": "Yuma County, AZ",
+    "year": 2017,
+    "unemployment_rate": 17
+  },
+  {
+    "id": "05001",
+    "name": "Arkansas County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.3
+  },
+  {
+    "id": "05003",
+    "name": "Ashley County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.7
+  },
+  {
+    "id": "05005",
+    "name": "Baxter County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "05007",
+    "name": "Benton County, AR",
+    "year": 2017,
+    "unemployment_rate": 3
+  },
+  {
+    "id": "05009",
+    "name": "Boone County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.4
+  },
+  {
+    "id": "05011",
+    "name": "Bradley County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "05013",
+    "name": "Calhoun County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.9
+  },
+  {
+    "id": "05015",
+    "name": "Carroll County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.3
+  },
+  {
+    "id": "05017",
+    "name": "Chicot County, AR",
+    "year": 2017,
+    "unemployment_rate": 6.5
+  },
+  {
+    "id": "05019",
+    "name": "Clark County, AR",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "05021",
+    "name": "Clay County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "05023",
+    "name": "Cleburne County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.9
+  },
+  {
+    "id": "05025",
+    "name": "Cleveland County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "05027",
+    "name": "Columbia County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.1
+  },
+  {
+    "id": "05029",
+    "name": "Conway County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "05031",
+    "name": "Craighead County, AR",
+    "year": 2017,
+    "unemployment_rate": 3
+  },
+  {
+    "id": "05033",
+    "name": "Crawford County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.5
+  },
+  {
+    "id": "05035",
+    "name": "Crittenden County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "05037",
+    "name": "Cross County, AR",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "05039",
+    "name": "Dallas County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "05041",
+    "name": "Desha County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "05043",
+    "name": "Drew County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.2
+  },
+  {
+    "id": "05045",
+    "name": "Faulkner County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.3
+  },
+  {
+    "id": "05047",
+    "name": "Franklin County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.5
+  },
+  {
+    "id": "05049",
+    "name": "Fulton County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "05051",
+    "name": "Garland County, AR",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "05053",
+    "name": "Grant County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.2
+  },
+  {
+    "id": "05055",
+    "name": "Greene County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.7
+  },
+  {
+    "id": "05057",
+    "name": "Hempstead County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.5
+  },
+  {
+    "id": "05059",
+    "name": "Hot Spring County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.7
+  },
+  {
+    "id": "05061",
+    "name": "Howard County, AR",
+    "year": 2017,
+    "unemployment_rate": 3
+  },
+  {
+    "id": "05063",
+    "name": "Independence County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "05065",
+    "name": "Izard County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.5
+  },
+  {
+    "id": "05067",
+    "name": "Jackson County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.9
+  },
+  {
+    "id": "05069",
+    "name": "Jefferson County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.2
+  },
+  {
+    "id": "05071",
+    "name": "Johnson County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "05073",
+    "name": "Lafayette County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.1
+  },
+  {
+    "id": "05075",
+    "name": "Lawrence County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.8
+  },
+  {
+    "id": "05077",
+    "name": "Lee County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "05079",
+    "name": "Lincoln County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "05081",
+    "name": "Little River County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.9
+  },
+  {
+    "id": "05083",
+    "name": "Logan County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.8
+  },
+  {
+    "id": "05085",
+    "name": "Lonoke County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.3
+  },
+  {
+    "id": "05087",
+    "name": "Madison County, AR",
+    "year": 2017,
+    "unemployment_rate": 2.9
+  },
+  {
+    "id": "05089",
+    "name": "Marion County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.9
+  },
+  {
+    "id": "05091",
+    "name": "Miller County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "05093",
+    "name": "Mississippi County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.9
+  },
+  {
+    "id": "05095",
+    "name": "Monroe County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.3
+  },
+  {
+    "id": "05097",
+    "name": "Montgomery County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "05099",
+    "name": "Nevada County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.6
+  },
+  {
+    "id": "05101",
+    "name": "Newton County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.6
+  },
+  {
+    "id": "05103",
+    "name": "Ouachita County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.6
+  },
+  {
+    "id": "05105",
+    "name": "Perry County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "05107",
+    "name": "Phillips County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.8
+  },
+  {
+    "id": "05109",
+    "name": "Pike County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "05111",
+    "name": "Poinsett County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "05113",
+    "name": "Polk County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "05115",
+    "name": "Pope County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "05117",
+    "name": "Prairie County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "05119",
+    "name": "Pulaski County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.4
+  },
+  {
+    "id": "05121",
+    "name": "Randolph County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "05123",
+    "name": "St. Francis County, AR",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "05125",
+    "name": "Saline County, AR",
+    "year": 2017,
+    "unemployment_rate": 3
+  },
+  {
+    "id": "05127",
+    "name": "Scott County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.5
+  },
+  {
+    "id": "05129",
+    "name": "Searcy County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.6
+  },
+  {
+    "id": "05131",
+    "name": "Sebastian County, AR",
+    "year": 2017,
+    "unemployment_rate": 3.6
+  },
+  {
+    "id": "05133",
+    "name": "Sevier County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.6
+  },
+  {
+    "id": "05135",
+    "name": "Sharp County, AR",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "05137",
+    "name": "Stone County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "05139",
+    "name": "Union County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.3
+  },
+  {
+    "id": "05141",
+    "name": "Van Buren County, AR",
+    "year": 2017,
+    "unemployment_rate": 5.5
+  },
+  {
+    "id": "05143",
+    "name": "Washington County, AR",
+    "year": 2017,
+    "unemployment_rate": 2.6
+  },
+  {
+    "id": "05145",
+    "name": "White County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "05147",
+    "name": "Woodruff County, AR",
+    "year": 2017,
+    "unemployment_rate": 4.9
+  },
+  {
+    "id": "05149",
+    "name": "Yell County, AR",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "06001",
+    "name": "Alameda County, CA",
+    "year": 2017,
+    "unemployment_rate": 3.7
+  },
+  {
+    "id": "06003",
+    "name": "Alpine County, CA",
+    "year": 2017,
+    "unemployment_rate": 6.2
+  },
+  {
+    "id": "06005",
+    "name": "Amador County, CA",
+    "year": 2017,
+    "unemployment_rate": 5
+  },
+  {
+    "id": "06007",
+    "name": "Butte County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.8
+  },
+  {
+    "id": "06009",
+    "name": "Calaveras County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.7
+  },
+  {
+    "id": "06011",
+    "name": "Colusa County, CA",
+    "year": 2017,
+    "unemployment_rate": 14.2
+  },
+  {
+    "id": "06013",
+    "name": "Contra Costa County, CA",
+    "year": 2017,
+    "unemployment_rate": 3.8
+  },
+  {
+    "id": "06015",
+    "name": "Del Norte County, CA",
+    "year": 2017,
+    "unemployment_rate": 6.4
+  },
+  {
+    "id": "06017",
+    "name": "El Dorado County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "06019",
+    "name": "Fresno County, CA",
+    "year": 2017,
+    "unemployment_rate": 8.5
+  },
+  {
+    "id": "06021",
+    "name": "Glenn County, CA",
+    "year": 2017,
+    "unemployment_rate": 7.5
+  },
+  {
+    "id": "06023",
+    "name": "Humboldt County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "06025",
+    "name": "Imperial County, CA",
+    "year": 2017,
+    "unemployment_rate": 19.5
+  },
+  {
+    "id": "06027",
+    "name": "Inyo County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "06029",
+    "name": "Kern County, CA",
+    "year": 2017,
+    "unemployment_rate": 9.2
+  },
+  {
+    "id": "06031",
+    "name": "Kings County, CA",
+    "year": 2017,
+    "unemployment_rate": 8.9
+  },
+  {
+    "id": "06033",
+    "name": "Lake County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.8
+  },
+  {
+    "id": "06035",
+    "name": "Lassen County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.5
+  },
+  {
+    "id": "06037",
+    "name": "Los Angeles County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "06039",
+    "name": "Madera County, CA",
+    "year": 2017,
+    "unemployment_rate": 8.1
+  },
+  {
+    "id": "06041",
+    "name": "Marin County, CA",
+    "year": 2017,
+    "unemployment_rate": 2.9
+  },
+  {
+    "id": "06043",
+    "name": "Mariposa County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.8
+  },
+  {
+    "id": "06045",
+    "name": "Mendocino County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "06047",
+    "name": "Merced County, CA",
+    "year": 2017,
+    "unemployment_rate": 9.4
+  },
+  {
+    "id": "06049",
+    "name": "Modoc County, CA",
+    "year": 2017,
+    "unemployment_rate": 8.1
+  },
+  {
+    "id": "06051",
+    "name": "Mono County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "06053",
+    "name": "Monterey County, CA",
+    "year": 2017,
+    "unemployment_rate": 7.2
+  },
+  {
+    "id": "06055",
+    "name": "Napa County, CA",
+    "year": 2017,
+    "unemployment_rate": 3.6
+  },
+  {
+    "id": "06057",
+    "name": "Nevada County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "06059",
+    "name": "Orange County, CA",
+    "year": 2017,
+    "unemployment_rate": 3.5
+  },
+  {
+    "id": "06061",
+    "name": "Placer County, CA",
+    "year": 2017,
+    "unemployment_rate": 3.9
+  },
+  {
+    "id": "06063",
+    "name": "Plumas County, CA",
+    "year": 2017,
+    "unemployment_rate": 8.9
+  },
+  {
+    "id": "06065",
+    "name": "Riverside County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.2
+  },
+  {
+    "id": "06067",
+    "name": "Sacramento County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.7
+  },
+  {
+    "id": "06069",
+    "name": "San Benito County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.8
+  },
+  {
+    "id": "06071",
+    "name": "San Bernardino County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.9
+  },
+  {
+    "id": "06073",
+    "name": "San Diego County, CA",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "06075",
+    "name": "San Francisco County/city, CA",
+    "year": 2017,
+    "unemployment_rate": 2.9
+  },
+  {
+    "id": "06077",
+    "name": "San Joaquin County, CA",
+    "year": 2017,
+    "unemployment_rate": 7
+  },
+  {
+    "id": "06079",
+    "name": "San Luis Obispo County, CA",
+    "year": 2017,
+    "unemployment_rate": 3.6
+  },
+  {
+    "id": "06081",
+    "name": "San Mateo County, CA",
+    "year": 2017,
+    "unemployment_rate": 2.7
+  },
+  {
+    "id": "06083",
+    "name": "Santa Barbara County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "06085",
+    "name": "Santa Clara County, CA",
+    "year": 2017,
+    "unemployment_rate": 3.2
+  },
+  {
+    "id": "06087",
+    "name": "Santa Cruz County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.7
+  },
+  {
+    "id": "06089",
+    "name": "Shasta County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.8
+  },
+  {
+    "id": "06091",
+    "name": "Sierra County, CA",
+    "year": 2017,
+    "unemployment_rate": 6.5
+  },
+  {
+    "id": "06093",
+    "name": "Siskiyou County, CA",
+    "year": 2017,
+    "unemployment_rate": 7.2
+  },
+  {
+    "id": "06095",
+    "name": "Solano County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.8
+  },
+  {
+    "id": "06097",
+    "name": "Sonoma County, CA",
+    "year": 2017,
+    "unemployment_rate": 3.4
+  },
+  {
+    "id": "06099",
+    "name": "Stanislaus County, CA",
+    "year": 2017,
+    "unemployment_rate": 7.5
+  },
+  {
+    "id": "06101",
+    "name": "Sutter County, CA",
+    "year": 2017,
+    "unemployment_rate": 8.7
+  },
+  {
+    "id": "06103",
+    "name": "Tehama County, CA",
+    "year": 2017,
+    "unemployment_rate": 6.4
+  },
+  {
+    "id": "06105",
+    "name": "Trinity County, CA",
+    "year": 2017,
+    "unemployment_rate": 6.2
+  },
+  {
+    "id": "06107",
+    "name": "Tulare County, CA",
+    "year": 2017,
+    "unemployment_rate": 10.4
+  },
+  {
+    "id": "06109",
+    "name": "Tuolumne County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.4
+  },
+  {
+    "id": "06111",
+    "name": "Ventura County, CA",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "06113",
+    "name": "Yolo County, CA",
+    "year": 2017,
+    "unemployment_rate": 5.1
+  },
+  {
+    "id": "06115",
+    "name": "Yuba County, CA",
+    "year": 2017,
+    "unemployment_rate": 7.4
+  },
+  {
+    "id": "08001",
+    "name": "Adams County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.9
+  },
+  {
+    "id": "08003",
+    "name": "Alamosa County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.3
+  },
+  {
+    "id": "08005",
+    "name": "Arapahoe County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.7
+  },
+  {
+    "id": "08007",
+    "name": "Archuleta County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.9
+  },
+  {
+    "id": "08009",
+    "name": "Baca County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.6
+  },
+  {
+    "id": "08011",
+    "name": "Bent County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.6
+  },
+  {
+    "id": "08013",
+    "name": "Boulder County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.3
+  },
+  {
+    "id": "08014",
+    "name": "Broomfield County/city, CO",
+    "year": 2017,
+    "unemployment_rate": 2.5
+  },
+  {
+    "id": "08015",
+    "name": "Chaffee County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.3
+  },
+  {
+    "id": "08017",
+    "name": "Cheyenne County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.7
+  },
+  {
+    "id": "08019",
+    "name": "Clear Creek County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.5
+  },
+  {
+    "id": "08021",
+    "name": "Conejos County, CO",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "08023",
+    "name": "Costilla County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.4
+  },
+  {
+    "id": "08025",
+    "name": "Crowley County, CO",
+    "year": 2017,
+    "unemployment_rate": 3
+  },
+  {
+    "id": "08027",
+    "name": "Custer County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.9
+  },
+  {
+    "id": "08029",
+    "name": "Delta County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.7
+  },
+  {
+    "id": "08031",
+    "name": "Denver County/city, CO",
+    "year": 2017,
+    "unemployment_rate": 2.6
+  },
+  {
+    "id": "08033",
+    "name": "Dolores County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.9
+  },
+  {
+    "id": "08035",
+    "name": "Douglas County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.3
+  },
+  {
+    "id": "08037",
+    "name": "Eagle County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.2
+  },
+  {
+    "id": "08039",
+    "name": "Elbert County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.3
+  },
+  {
+    "id": "08041",
+    "name": "El Paso County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.1
+  },
+  {
+    "id": "08043",
+    "name": "Fremont County, CO",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "08045",
+    "name": "Garfield County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.8
+  },
+  {
+    "id": "08047",
+    "name": "Gilpin County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.9
+  },
+  {
+    "id": "08049",
+    "name": "Grand County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.2
+  },
+  {
+    "id": "08051",
+    "name": "Gunnison County, CO",
+    "year": 2017,
+    "unemployment_rate": 2
+  },
+  {
+    "id": "08053",
+    "name": "Hinsdale County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.1
+  },
+  {
+    "id": "08055",
+    "name": "Huerfano County, CO",
+    "year": 2017,
+    "unemployment_rate": 5.6
+  },
+  {
+    "id": "08057",
+    "name": "Jackson County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.8
+  },
+  {
+    "id": "08059",
+    "name": "Jefferson County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.5
+  },
+  {
+    "id": "08061",
+    "name": "Kiowa County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.7
+  },
+  {
+    "id": "08063",
+    "name": "Kit Carson County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.6
+  },
+  {
+    "id": "08065",
+    "name": "Lake County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.1
+  },
+  {
+    "id": "08067",
+    "name": "La Plata County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.3
+  },
+  {
+    "id": "08069",
+    "name": "Larimer County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.3
+  },
+  {
+    "id": "08071",
+    "name": "Las Animas County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.9
+  },
+  {
+    "id": "08073",
+    "name": "Lincoln County, CO",
+    "year": 2017,
+    "unemployment_rate": 2
+  },
+  {
+    "id": "08075",
+    "name": "Logan County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.2
+  },
+  {
+    "id": "08077",
+    "name": "Mesa County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.8
+  },
+  {
+    "id": "08079",
+    "name": "Mineral County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.9
+  },
+  {
+    "id": "08081",
+    "name": "Moffat County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.2
+  },
+  {
+    "id": "08083",
+    "name": "Montezuma County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.8
+  },
+  {
+    "id": "08085",
+    "name": "Montrose County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.2
+  },
+  {
+    "id": "08087",
+    "name": "Morgan County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.3
+  },
+  {
+    "id": "08089",
+    "name": "Otero County, CO",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "08091",
+    "name": "Ouray County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.8
+  },
+  {
+    "id": "08093",
+    "name": "Park County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.3
+  },
+  {
+    "id": "08095",
+    "name": "Phillips County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.6
+  },
+  {
+    "id": "08097",
+    "name": "Pitkin County, CO",
+    "year": 2017,
+    "unemployment_rate": 3
+  },
+  {
+    "id": "08099",
+    "name": "Prowers County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.5
+  },
+  {
+    "id": "08101",
+    "name": "Pueblo County, CO",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "08103",
+    "name": "Rio Blanco County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.8
+  },
+  {
+    "id": "08105",
+    "name": "Rio Grande County, CO",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "08107",
+    "name": "Routt County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.3
+  },
+  {
+    "id": "08109",
+    "name": "Saguache County, CO",
+    "year": 2017,
+    "unemployment_rate": 4.2
+  },
+  {
+    "id": "08111",
+    "name": "San Juan County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.1
+  },
+  {
+    "id": "08113",
+    "name": "San Miguel County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.7
+  },
+  {
+    "id": "08115",
+    "name": "Sedgwick County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.1
+  },
+  {
+    "id": "08117",
+    "name": "Summit County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.8
+  },
+  {
+    "id": "08119",
+    "name": "Teller County, CO",
+    "year": 2017,
+    "unemployment_rate": 3.1
+  },
+  {
+    "id": "08121",
+    "name": "Washington County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.9
+  },
+  {
+    "id": "08123",
+    "name": "Weld County, CO",
+    "year": 2017,
+    "unemployment_rate": 2.6
+  },
+  {
+    "id": "08125",
+    "name": "Yuma County, CO",
+    "year": 2017,
+    "unemployment_rate": 1.5
+  },
+  {
+    "id": "09001",
+    "name": "Fairfield County, CT",
+    "year": 2017,
+    "unemployment_rate": 4.6
+  },
+  {
+    "id": "09003",
+    "name": "Hartford County, CT",
+    "year": 2017,
+    "unemployment_rate": 4.9
+  },
+  {
+    "id": "09005",
+    "name": "Litchfield County, CT",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": "09007",
+    "name": "Middlesex County, CT",
+    "year": 2017,
+    "unemployment_rate": 4.1
+  },
+  {
+    "id": "09009",
+    "name": "New Haven County, CT",
+    "year": 2017,
+    "unemployment_rate": 5.1
+  },
+  {
+    "id": "09011",
+    "name": "New London County, CT",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  {
+    "id": "09013",
+    "name": "Tolland County, CT",
+    "year": 2017,
+    "unemployment_rate": 4
+  },
+  {
+    "id": "09015",
+    "name": "Windham County, CT",
+    "year": 2017,
+    "unemployment_rate": 5.1
+  },
+  {
+    "id": 10001,
+    "name": "Kent County, DE",
+    "year": 2017,
+    "unemployment_rate": 4.9
+  },
+  {
+    "id": 10003,
+    "name": "New Castle County, DE",
+    "year": 2017,
+    "unemployment_rate": 4.4
+  },
+  {
+    "id": 10005,
+    "name": "Sussex County, DE",
+    "year": 2017,
+    "unemployment_rate": 4.5
+  },
+  
+  {
+    "id": 11001,
+    "name": "District of Columbia",
+    "year": 2017,
+    "unemployment_rate": 6.1
+  },
+  */

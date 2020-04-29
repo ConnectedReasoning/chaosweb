@@ -1,0 +1,25 @@
+.covid{
+  background-color:#ffffff;
+  color:#444444;
+  svg {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: auto;
+    margin-right: auto
+  }
+  .countdown-wrapper{
+    padding-top:20px;
+    padding-left:50px;
+    font-size:30px;
+  }
+  @media (min-width:1000px){
+    .mapwrap{
+      width:65%;
+      margin-right:auto;
+      margin-left:auto;
+    }
+  }
+}
+
+
+
