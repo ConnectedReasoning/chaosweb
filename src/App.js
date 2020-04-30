@@ -1,36 +1,25 @@
-import React, {useState} from 'react';
-import { Stage, Layer, Text } from 'react-konva';
-import Konva from 'konva';
-import ColoredRect from './components/coloredRect';
-import './main.scss';
+
+import React from 'react';
+import { BrowserRouter, Route } from 'react-router-dom';
+import Covid      from './components/covid/covid';
+
+import 'materialize-css'; // It installs the JS asset only
+import 'materialize-css/dist/css/materialize.min.css';
 
 const  App = (props) => {
-  const [randomDigit, setRandomDigit] = useState(0);
-  const [squares, setSquares] = useState([]);
 
-  const handleClick = () =>{
-    const tempSquares = squares;
-    const newSquare = {x:Math.random(), y:Math.random(), height:Math.random(), width:Math.random(), color:Konva.Util.getRandomColor()};
-    tempSquares.push(newSquare);
-    setSquares([...tempSquares]);
 
-  }
   return (
-    <div className="App" onClick={handleClick} onTap={handleClick}>
+    <div className="App" >
+        <BrowserRouter>
+          <div className="main">
  
-    <Stage className="stage" width={window.innerWidth} height={window.innerHeight}  >
-        <Layer >
-          <Text text={`Try click on rect`} />
-
-          {
-            squares.map(square =>{
-
-              return <ColoredRect square={square} />
-            })
-  
-          }
-        </Layer>
-      </Stage>
+            <Route  exact path="/" render={(props) => {
+                return ( <Covid {...props} />)
+              }}
+            />
+          </div>
+        </BrowserRouter>
     </div>
   );
 }

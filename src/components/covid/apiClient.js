@@ -4,7 +4,7 @@ import {safeJsonStringify} from 'safe-json-stringify';
 class ApiClient {
 	constructor(){
 		this.saveToServer = this.saveToServer.bind(this);
-		this.host = 'http://localhost:3011/saveSvg';
+		this.host = 'http://localhost:8080/saveSvg';
 	}
 	
 	saveToServer(file, date, type) {
@@ -18,9 +18,9 @@ class ApiClient {
       date:date,
 			type:typeText
     }
-		//console.log('svgData is ', svgData);
+		console.log('svgData is ', svgData);
 		return new Promise((resolve, reject) => {
-			//console.log('in goalline api client')
+			console.log('in goalline api client')
 			axios({
 				method: 'POST',
 				url:uri,

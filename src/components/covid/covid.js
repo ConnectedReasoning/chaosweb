@@ -2,6 +2,7 @@ import React, {useState, useEffect} from 'react';
 import { ComposableMap, Geographies, Geography, } from 'react-simple-maps';
 import { scaleQuantile } from 'd3-scale';
 import moment from 'moment';
+import _ from 'lodash';
 import Papa from 'papaparse';
 import counties from './counties';
 import apiClient from './apiClient';
@@ -32,8 +33,14 @@ const  Covid = props => {
         return jsonCountyReport;
       });
       console.log('data parsed');
-      //console.log('populatedCovid', populatedCovid);
+      console.log('populatedCovid', populatedCovid);
       setCovidCounties(populatedCovid);
+      const percentages = jsonCountyReports.data.map( report =>{
+        return report.percentage;
+      });
+      console.log('percentages is ', percentages);
+      console.log(' min is ', _.min(percentages));
+      console.log(' max is ', _.max(percentages));
     });
 
   }, []);
@@ -84,7 +91,7 @@ const  Covid = props => {
     console.log('date is ', moment().subtract(dayCount, 'days').format('MMM DD YYYY'));
     if(svgElement &&  svgElement.length > 0){
       //console.log('svgElement is ', svgElement);
-      //saveSVG(svgElement, moment().subtract(dayCount, 'days').format('MMM DD YYYY'), type );
+      saveSVG(svgElement, moment().subtract(dayCount, 'days').format('MMM DD YYYY'), type );
     }
   return(
     <div className="home">
