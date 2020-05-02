@@ -33,20 +33,37 @@ const  Covid = props => {
         return jsonCountyReport;
       });
       console.log('data parsed');
-      console.log('populatedCovid', populatedCovid);
+      //console.log('populatedCovid', populatedCovid);
       setCovidCounties(populatedCovid);
       const percentages = jsonCountyReports.data.map( report =>{
         return report.percentage;
       });
-      console.log('percentages is ', percentages);
+      //console.log('percentages is ', percentages);
       console.log(' min is ', _.min(percentages));
       console.log(' max is ', _.max(percentages));
+      percentages.sort();
+      var len =  percentages.length;
+      console.log('length of percentages is ', len);
+      var per20 =  (Math.floor(len * 0.05));
+      console.log('per20 is ', per20);
+      var i;
+      var twentileplace = [];
+      for(i = 1; i <=20; i++){
+        twentileplace.push(per20 * i);
+      }
+
+      console.log('twentileplace is ', twentileplace);
+      const twentile=[];
+      for(var i = 0; i <=twentileplace.length; i++){
+        twentile.push(percentages[twentileplace[i]]);
+      }
+      console.log(twentile);
     });
 
   }, []);
   const saveSVG = (svgElement, date) => {
     //console.log('saveSVG for svgElement ', svgElement);
-    apiClient.saveToServer(svgElement, date, type);
+    //apiClient.saveToServer(svgElement, date, type);
   }
   const countdown = (d) => {
     console.log('d is ', d);
@@ -65,6 +82,27 @@ const  Covid = props => {
   const colorScale = scaleQuantile()
   .domain(covidCounties.map(d => d.percentage))
   .range([
+    "#F9E310",
+    "#F7D70F",
+    "#F6CC0E",
+    "#F5C10E",
+    "#F3B50D",
+    "#F2AA0D",
+    "#F19F0C",
+    "#F0930B",
+    "#EE880B",
+    "#ED7D0A",
+    "#EC710A",
+    "#EB6609",
+    "#E95B09",
+    "#E84F08",
+    "#E74407",
+    "#E63907",
+    "#E42D06",
+    "#E32206",
+    "#E21705",
+    "#E10C05"
+    /*
     "#FED3CD",
     "#F8C8C2",
     "#F2BDB7",
@@ -84,6 +122,7 @@ const  Covid = props => {
     "#9E2922",
     "#981F17",
     "#92140C"
+    */
   ]);
   //console.log('covidCounties', covidCounties);
     const svgElement = document.getElementsByTagName("svg");
@@ -112,7 +151,7 @@ const  Covid = props => {
                           return (covidCounty.fips === geo.id && covidCounty.date === moment().subtract(dayCount, 'days').format('YYYY-MM-DD'));
                       });
     
-                      const countyColorScale = currentCounty ? colorScale(currentCounty.percentage) : "#B8EBAA";
+                      const countyColorScale = currentCounty ? colorScale(currentCounty.percentage) : "#999999";
 
                       return <Geography 
                         key={geo.rsmKey} 

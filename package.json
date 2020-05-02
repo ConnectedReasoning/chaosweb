@@ -2,6 +2,14 @@
   "name": "chaosweb",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "start": "node server",
+    "startdev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "preinstall": "npx npm-force-resolutions"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -44,13 +52,6 @@
   },
   "resolutions": {
     "@babel/preset-env": "^7.8.7"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "preinstall": "npx npm-force-resolutions"
   },
   "eslintConfig": {
     "extends": "react-app"
