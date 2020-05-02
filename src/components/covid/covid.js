@@ -48,15 +48,16 @@ const  Covid = props => {
       console.log('per20 is ', per20);
       var i;
       var twentileplace = [];
-      for(i = 1; i <=20; i++){
+      for(i = 2; i <=20; i++){
         twentileplace.push(per20 * i);
       }
 
       console.log('twentileplace is ', twentileplace);
       const twentile=[];
-      for(var i = 0; i <=twentileplace.length; i++){
+      for(var i = 1; i <twentileplace.length; i++){
         twentile.push(percentages[twentileplace[i]]);
       }
+      twentile.push(percentages[percentages.length-1]);
       console.log(twentile);
     });
 
