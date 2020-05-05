@@ -64,7 +64,7 @@ const  Covid = props => {
   }, []);
   const saveSVG = (svgElement, date) => {
     //console.log('saveSVG for svgElement ', svgElement);
-    //apiClient.saveToServer(svgElement, date, type);
+    apiClient.saveToServer(svgElement, date, type);
   }
   const countdown = (d) => {
     console.log('d is ', d);
