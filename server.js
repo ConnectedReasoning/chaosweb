@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var app = require('./app');
-var debug = require('debug')('planzu:server');
+var debug = require('debug')('covid:server');
 var http = require('http');
 
 /**

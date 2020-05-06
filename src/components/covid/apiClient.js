@@ -4,7 +4,7 @@ import {safeJsonStringify} from 'safe-json-stringify';
 class ApiClient {
 	constructor(){
 		this.saveToServer = this.saveToServer.bind(this);
-		this.host = 'http://localhost:8080/saveSvg';
+		this.host = process.env.SAVE_SVG_HOST || 'http://localhost:8080/saveSvg';
 	}
 	
 	saveToServer(file, date, type) {
