@@ -15,7 +15,7 @@ const  Home = props => {
   const countdown = (dayCount) => {
     var downloadTimer = setInterval(function(){
       dayCount += 1;
-      const covidFileUrl =`./svg/${dayCount.toString().padStart(3,'0')}-[${moment(moment().dayOfYear(dayCount)).format('MMM-DD')}].svg`;
+      const covidFileUrl =`./contagion/${dayCount.toString().padStart(3,'0')}-[${moment(moment().dayOfYear(dayCount)).format('MMM-DD')}].svg`;
       setCovidSvg(covidFileUrl);
       setCovidDate(moment(moment().dayOfYear(dayCount)).format('MMM-DD'));
       //console.log('dayCount is ', dayCount);
