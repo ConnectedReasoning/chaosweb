@@ -4,13 +4,11 @@ import {safeJsonStringify} from 'safe-json-stringify';
 class ApiClient {
 	constructor(){
 		this.saveToServer = this.saveToServer.bind(this);
-		this.host = process.env.SAVE_SVG_HOST || 'http://localhost:8080/saveSvg';
-		console.log('thishost is ', this.host);
 	}
 	
 	saveToServer(file, date, type) {
-		//console.log('svg is ', file[0])
-		let uri = this.host;
+		let uri = process.env.SAVE_SVG_HOST || 'http://localhost:8080/saveSvg';;
+		console.log('uri is ', uri);
 		var s = new XMLSerializer();
 		var strSvg = s.serializeToString(file[0]);
  		const typeText = type === 4 ? 'Contagion' : 'Mortality';
@@ -19,9 +17,7 @@ class ApiClient {
       date:date,
 			type:typeText
     }
-		console.log('svgData is ', svgData);
 		return new Promise((resolve, reject) => {
-			console.log('in goalline api client')
 			axios({
 				method: 'POST',
 				url:uri,
