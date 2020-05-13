@@ -5,6 +5,7 @@ class ApiClient {
 	constructor(){
 		this.saveToServer = this.saveToServer.bind(this);
 		this.host = process.env.SAVE_SVG_HOST || 'http://localhost:8080/saveSvg';
+		console.log('thishost is ', this.host);
 	}
 	
 	saveToServer(file, date, type) {
