@@ -7,7 +7,7 @@ class ApiClient {
 	}
 	
 	saveToServer(file, date, type) {
-		let uri = process.env.SAVE_SVG_HOST || 'http://localhost:8080/saveSvg';;
+		let uri = 'https://covidmaps.herokuapp.com/saveSvg';
 		console.log('uri is ', uri);
 		var s = new XMLSerializer();
 		var strSvg = s.serializeToString(file[0]);
