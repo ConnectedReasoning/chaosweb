@@ -15,7 +15,7 @@ class ApiDal {
 		file = file.replace(`class="rsm-svg ">`,`class="rsm-svg ">
 		<style>.heavy {font: bold 15px sans-serif;} .small { font: italic 10px sans-serif; }</style>`)
 		console.log('file name will be ', fileName);
-		fs.writeFile('./public/contagion/'+fileName + '.svg', file,  function (err) {
+		fs.writeFile(`${__dirname}/public/contagion/${fileName} .svg`, file,  function (err) {
 			if (err) throw err;
 		});
 	}
